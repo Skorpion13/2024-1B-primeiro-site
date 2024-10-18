@@ -1,2 +1,2 @@
-# 2024-1B-primeiro-site
-Meu primeiro site em html css
+# 2024-1b-Meu-primeiro-site
+meu primeiro site em HTML, css
